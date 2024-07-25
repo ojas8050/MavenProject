@@ -1,0 +1,8 @@
+DemoWebShop\ActionClass.class
+DemoWebShop\BrowserActions.class
+DemoWebShop\LoginPage.class
+DemoWebShop\LoginData.class
+DemoWebShop\HomePage.class
+DemoWebShop\Shoes.class
+TestCases\TakingScreenShotTestCase.class
+TestCases\LoginTestCase.class
